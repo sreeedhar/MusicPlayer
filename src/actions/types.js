@@ -1,0 +1,16 @@
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+export const GET_DATA = "GET_DATA";
+export const GET_DATA_FAILURE = "GET_DATA_FAILURE";
+export const GET_PAGE_TITLE = "GET_PAGE_TITLE";
+export const GET_ALBUMS = "GET_ALBUMS";
+export const GET_ARTISTS = "GET_ARTISTS";
+export const GET_TRACKS = "GET_TRACKS";
+export const GET_ALBUM_TRACKS = "GET_ALBUM_TRACKS";
+export const GET_ARTIST_TRACKS = "GET_ARTIST_TRACKS";
+export const START_SEARCH = "START_SEARCH";
+export const SEARCH_FAILURE = "SEARCH_FAILURE";
+export const SEARCH_SUCCESS = "SEARCH_SUCCESS";
+export const SET_ACTIVE_TRACK = "SET_ACTIVE_TRACK";
+export const GET_ARTIST_DETAILS = "GET_ARTIST_DETAILS";
+
