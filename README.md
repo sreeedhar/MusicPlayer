@@ -11,6 +11,4 @@ Music player created using React and Redux using the free Deezer API.
 ![pic](/Screenshots/2.png)
 ![pic](/Screenshots/3.png)
 ![pic](/Screenshots/4.png)
-![pic](/Screenshots/5.png)
-![pic](/Screenshots/6.png)
 
