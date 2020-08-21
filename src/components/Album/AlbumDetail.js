@@ -21,7 +21,7 @@ function AlbumDetail({ album, getTrackInfo }) {
                     <img className="br4" src={album.cover_medium} alt="cover" />
                 </div>
                 <div className="details-info-right">
-                    <div className="details-title white b u f1">{album.title}
+                    <div className="details-title white b u" style={{ fontSize: 48, fontWeight: 600 }} >{album.title}
                         <div className="details-contributor white f3">
                             {album.artist && album.artist.name}
                         </div></div>

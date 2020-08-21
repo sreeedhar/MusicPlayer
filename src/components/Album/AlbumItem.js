@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const AlbumItem = ({ id, image, title, artist, match }) => {
     return (
-        <div className="db center mw5 grow dim br5" style={{ margin: "8px" }}>
+        <div className="db center mw5 grow dim  br5" style={{ margin: "8px" }}>
 
             <Link to={`${match.url}/${id}`}>
                 <img src={image} alt="album cover" />
