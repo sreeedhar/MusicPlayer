@@ -5,7 +5,7 @@
   "author": "Sreedhar",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chart.js": "2.9.3",
     "classnames": "2.2.6",
     "convert-seconds": "^1.0.1",
