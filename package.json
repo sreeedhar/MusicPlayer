@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "convert-seconds": "^1.0.1",
     "gulp-append-prepend": "1.0.8",
